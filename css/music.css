@@ -1,0 +1,121 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-image: url("../img/emilia-music-top.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    font-family: Open Sans;
+    background-size: 100%
+    ;
+    
+}
+
+ul.home{
+    line-height: 50px;
+    margin-top: 80px;
+    text-align: right;
+    background-color: rgba(255, 255,255, 0.5 );
+    margin-right: 5px;
+    color: black;
+    
+    
+
+}
+
+ul li{
+    display:inline;
+    line-height: 30px;
+     padding-left:3px;
+     padding-right:3px;
+    list-style: none;
+    
+    
+}
+
+ul a i{
+    color: black;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(102, 102, 102);
+}
+
+ul.menu{
+    line-height: 35px;
+    text-align: right;
+    margin-right: 5px;
+}
+
+h1{
+    margin-top: 120px;
+    font-family: Raleway;
+    font-size: 72px;
+    margin-left: 20px;
+    color: black
+}
+
+ul.links{
+    line-height: 50px;
+    margin-top: 10px;
+    background-color: rgba(255, 255,255, 0.5 );
+    margin-right: 5px;
+    color: black;
+    
+}
+
+h2.album{
+    margin-top: 50px;
+    font-family: Raleway;
+    font-size: 30px;
+    margin-left: 10px;
+    color: black
+}
+
+h4{
+    margin-left: 5px;
+}
+
+img{
+    margin-left: 10px;
+}
+
+ol{
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+#video1{
+    margin-top: 40px;
+    font-family: Raleway;
+    font-size: 20px;
+    margin-left: 10px;
+    color: black;
+    margin-bottom: 10px;
+}
+#video2{
+    margin-top: 40px;
+    font-family: Raleway;
+    font-size: 20px;
+    margin-left: 10px;
+    color: black;
+    margin-bottom: 10px;
+}
+.top{
+    text-decoration: none;
+    color: rgb(102, 102, 102);
+    margin-left: 10px;
+
+}
+
+.video{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+    line-height: 25px;
+}
+iframe{
+    margin-left: 10px;
+}
